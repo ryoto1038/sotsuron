@@ -1,0 +1,29 @@
+\contentsline {chapter}{\numberline {第1章}序論}{1}{}%
+\contentsline {chapter}{\numberline {第2章}関連研究}{3}{}%
+\contentsline {section}{\numberline {2.1}臨場感}{3}{}%
+\contentsline {subsection}{\numberline {2.1.1}臨場感の定義}{3}{}%
+\contentsline {subsection}{\numberline {2.1.2}臨場感に関する関連研究}{3}{}%
+\contentsline {section}{\numberline {2.2}スポーツ観戦における臨場感の演出}{5}{}%
+\contentsline {subsection}{\numberline {2.2.1}集団における一体感}{5}{}%
+\contentsline {subsection}{\numberline {2.2.2}感情伝播}{5}{}%
+\contentsline {section}{\numberline {2.3}感性とロボット}{6}{}%
+\contentsline {subsection}{\numberline {2.3.1}ロボットの進化}{6}{}%
+\contentsline {subsection}{\numberline {2.3.2}ロボットへの感性導入}{6}{}%
+\contentsline {subsection}{\numberline {2.3.3}ロボット集団と人間のインタラクション}{7}{}%
+\contentsline {chapter}{\numberline {第3章}臨場感を演出する集団ロボットの内部モデル}{8}{}%
+\contentsline {section}{\numberline {3.1}モデルの概要}{8}{}%
+\contentsline {subsection}{\numberline {3.1.1}試合状況の読み取り}{8}{}%
+\contentsline {subsection}{\numberline {3.1.2}感情の生成方法}{9}{}%
+\contentsline {section}{\numberline {3.2}実験環境}{10}{}%
+\contentsline {subsection}{\numberline {3.2.1}スポーツバーでの観戦}{12}{}%
+\contentsline {subsection}{\numberline {3.2.2}ロボット集団の動作}{13}{}%
+\contentsline {chapter}{\numberline {第4章}実ユーザによる評価実験}{15}{}%
+\contentsline {section}{\numberline {4.1}実験概要}{15}{}%
+\contentsline {section}{\numberline {4.2}実験条件}{17}{}%
+\contentsline {subsection}{\numberline {4.2.1}観戦する試合映像}{17}{}%
+\contentsline {subsection}{\numberline {4.2.2}ロボット集団のパラメータ}{17}{}%
+\contentsline {section}{\numberline {4.3}実験結果}{20}{}%
+\contentsline {section}{\numberline {4.4}考察}{30}{}%
+\contentsline {chapter}{\numberline {第5章}結論}{31}{}%
+\contentsline {chapter}{謝辞}{33}{}%
+\contentsline {chapter}{参考文献}{34}{}%
